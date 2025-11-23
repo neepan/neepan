@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **Macro Nurtri and Calorie Counter App**
 
-- 👨‍💻 All of my projects are available at [neepanbiswas.tech](https://neepanbiswas.tech)
 
 - ⚡ Fun fact **Not from this World**
 
